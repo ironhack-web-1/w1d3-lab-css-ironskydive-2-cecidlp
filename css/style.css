@@ -81,6 +81,12 @@ h5 {
 }
 
 .link-btn {
-    background-color: blue;
+    background-color: rgb(67, 163, 230);
+    color: white;
+    font-family: roboto Condensed;
+    font-size: 2em;
+    letter-spacing: 0.5px;
+    text-align: center;
+    text-decoration: none;
 }
 
