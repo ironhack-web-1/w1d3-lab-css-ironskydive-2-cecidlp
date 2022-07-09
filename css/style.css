@@ -69,7 +69,7 @@ h5 {
     font-size: 2.5em;
 }
 
-#general-information.dark-background {
+#team.dark-background {
     background-color: rgb(25, 33, 41);
     color: white;
 }
@@ -97,4 +97,19 @@ h5 {
 
 .service-box img {
     width: 125px;
+}
+
+#team .section-text {
+    font-size: 1.9em;
+    text-align: center;
+}
+
+#team .member-name {
+    font-size: 1.5em;
+    font-weight: 700px;
+}
+
+#team img {
+    width: 250px;
+    height: 180px;
 }
